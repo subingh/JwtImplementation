@@ -1,0 +1,14 @@
+E:\Dev\WebApplication1\LogIn.Data\bin\Debug\net8.0\LogIn.Data.deps.json
+E:\Dev\WebApplication1\LogIn.Data\bin\Debug\net8.0\LogIn.Data.runtimeconfig.json
+E:\Dev\WebApplication1\LogIn.Data\bin\Debug\net8.0\LogIn.Data.dll
+E:\Dev\WebApplication1\LogIn.Data\bin\Debug\net8.0\LogIn.Data.pdb
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.csproj.AssemblyReference.cache
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.AssemblyInfoInputs.cache
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.AssemblyInfo.cs
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.csproj.CoreCompileInputs.cache
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.dll
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\refint\LogIn.Data.dll
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.pdb
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\LogIn.Data.genruntimeconfig.cache
+E:\Dev\WebApplication1\LogIn.Data\obj\Debug\net8.0\ref\LogIn.Data.dll

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dev\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|e:\\dev\\webapplication1\\webapplication1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|e:\\dev\\webapplication1\\service\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|solutionrelative:service\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|e:\\dev\\webapplication1\\service\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|solutionrelative:service\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|e:\\dev\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|e:\\dev\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dev\\WebApplication1\\LogIn.Data\\Migrations\\20240814073539_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogIn.Data\\Migrations\\20240814073539_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C82ABF-B061-4A3C-BD32-DCB17E31F0CE}|LogIn.Data\\LogIn.Data.csproj|e:\\dev\\webapplication1\\login.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C82ABF-B061-4A3C-BD32-DCB17E31F0CE}|LogIn.Data\\LogIn.Data.csproj|solutionrelative:login.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|e:\\dev\\webapplication1\\service\\services\\implementation\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|solutionrelative:service\\services\\implementation\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|e:\\dev\\webapplication1\\service\\services\\interface\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|solutionrelative:service\\services\\interface\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|e:\\dev\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7A910C8-6B65-4D40-A09C-E96F25839BF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|e:\\dev\\webapplication1\\service\\models\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44841E-79C9-4792-A97C-70D7E05BD7BD}|Service\\Service.csproj|solutionrelative:service\\models\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240814073539_Initial.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\LogIn.Data\\Migrations\\20240814073539_Initial.cs",
+              "RelativeDocumentMoniker": "LogIn.Data\\Migrations\\20240814073539_Initial.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\LogIn.Data\\Migrations\\20240814073539_Initial.cs",
+              "RelativeToolTip": "LogIn.Data\\Migrations\\20240814073539_Initial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:35:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\LogIn.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LogIn.Data\\Models\\User.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\LogIn.Data\\Models\\User.cs",
+              "RelativeToolTip": "LogIn.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:26:01.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:24:45.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:09:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\WebApplication1\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ClientController.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\WebApplication1\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:09:03.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "E:\\Dev\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T09:44:06.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\Service\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\Service\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "Service\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:21:49.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\Service\\Services\\Implementation\\ClientService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Implementation\\ClientService.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\Service\\Services\\Implementation\\ClientService.cs",
+              "RelativeToolTip": "Service\\Services\\Implementation\\ClientService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:21:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogInRequestModel.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\Service\\Models\\LogInRequestModel.cs",
+              "RelativeDocumentMoniker": "Service\\Models\\LogInRequestModel.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\Service\\Models\\LogInRequestModel.cs",
+              "RelativeToolTip": "Service\\Models\\LogInRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:18:31.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\Service\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interface\\IAuthService.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\Service\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Services\\Interface\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:10:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "E:\\Dev\\WebApplication1\\Service\\Services\\Interface\\IClientService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interface\\IClientService.cs",
+              "ToolTip": "E:\\Dev\\WebApplication1\\Service\\Services\\Interface\\IClientService.cs",
+              "RelativeToolTip": "Service\\Services\\Interface\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:08:17.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
